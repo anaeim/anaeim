@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ali Naeimabadi</h1>
-<h3 align="center">A graduate student at University of Alberta.</h3>
+<h3 align="center">A graduate student at Computing Science Dept. of University of Alberta.</h3>
 
 - 🔭 I’m currently working on **Educational assessment**
 
