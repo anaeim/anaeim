@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ali Naeimabadi</h1>
 <h3 align="center">A graduate student at Computing Science Dept. of University of Alberta.</h3>
 
-- 🔭 I’m currently working on **Educational assessment**
+- 🔭 I’m currently working on **entity matching by leveraging tabular data**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
