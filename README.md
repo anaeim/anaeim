@@ -29,7 +29,7 @@
 
 ### 💼 Tech Stack & Tools
 
-#### ML / NN / LLM / LLMOps
+#### 🤖 ML / NN / LLM / LLMOps
 <p>
   <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white"/>
   <img src="https://img.shields.io/badge/LangGraph-8A2BE2?style=for-the-badge&logo=langchain&logoColor=white"/>
@@ -43,7 +43,7 @@
 
 ---
 
-#### Infrastructure / MLOps
+#### ⚙️ Infrastructure / MLOps
 <p>
   <img src="https://img.shields.io/badge/Databricks-E0201F?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
@@ -55,7 +55,7 @@
 
 ---
 
-#### Databases / Vector Stores
+#### 🧠 Databases / Vector Stores
 <p>
   <img src="https://img.shields.io/badge/VectorDB-FF6F91?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chroma-8E44AD?style=for-the-badge&logo=semanticweb&logoColor=white"/>
