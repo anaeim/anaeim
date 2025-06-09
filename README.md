@@ -55,7 +55,7 @@
 
 ---
 
-#### 🧠 Databases / Vector Stores
+#### 💾 Databases / Vector Stores
 <p>
   <img src="https://img.shields.io/badge/VectorDB-FF6F91?style=for-the-badge&logo=databricks&logoColor=white"/>
   <img src="https://img.shields.io/badge/Chroma-8E44AD?style=for-the-badge&logo=semanticweb&logoColor=white"/>
